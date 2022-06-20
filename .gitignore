@@ -1,0 +1,8 @@
+*.pyc  
+*~  
+__pycache__  
+venv  
+db.sqlite3 
+psycopg2 
+/static  
+.DS_Store  
